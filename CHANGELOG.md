@@ -1,3 +1,7 @@
+## 0.0.2
+
+Lint code.
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+Support share file to specified app in Android.
