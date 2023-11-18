@@ -1,4 +1,4 @@
-A Flutter plugin for sharing file to specified app.
+A Flutter plugin for sharing file to specified app in Android.
 
 ## Example
 ```dart
