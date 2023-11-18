@@ -1,4 +1,3 @@
-
 import 'share_specified_app_platform_interface.dart';
 
 class ShareSpecifiedApp {
